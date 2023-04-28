@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "300980950103",
+    "firebase_url": "https://edentv-mobile-18469-default-rtdb.firebaseio.com",
+    "project_id": "edentv-mobile-18469",
+    "storage_bucket": "edentv-mobile-18469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300980950103:android:19d8537b6f85b2c9367f12",
+        "android_client_info": {
+          "package_name": "com.gits.edentv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300980950103-f6c8nkvu68oa87ppv43d5351no3ijaqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gits.edentv",
+            "certificate_hash": "3a6bf2663c05e3a4558cd1b39e0f673f97b14a1b"
+          }
+        },
+        {
+          "client_id": "300980950103-s52o1gp4jhi4b0gctgf84iot8hibtef9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNMaCyC7EgIGg-H32SsmMSuI6vyj4YZTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300980950103-s52o1gp4jhi4b0gctgf84iot8hibtef9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300980950103:android:00cb5c7da2ecd57b367f12",
+        "android_client_info": {
+          "package_name": "com.gits.edentv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300980950103-c59p09fsnmnobtnf67n24auj0i4fvg1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gits.edentv",
+            "certificate_hash": "3a6bf2663c05e3a4558cd1b39e0f673f97b14a1b"
+          }
+        },
+        {
+          "client_id": "300980950103-mt83nprdcnf9iuvetsobqgrnu3fp301l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gits.edentv",
+            "certificate_hash": "586d3ea0a7fd99d06fb752e336a2e05d91602834"
+          }
+        },
+        {
+          "client_id": "300980950103-ojlg7ad2g10sng5vi0ocrcr6flsh0q93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gits.edentv",
+            "certificate_hash": "3a61ce0729522ce615114694f57d2597038a13b4"
+          }
+        },
+        {
+          "client_id": "300980950103-s52o1gp4jhi4b0gctgf84iot8hibtef9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNMaCyC7EgIGg-H32SsmMSuI6vyj4YZTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300980950103-s52o1gp4jhi4b0gctgf84iot8hibtef9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

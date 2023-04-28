@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">edentTv</string>
+    <string name="facebook_app_id">1014917329104286</string> 
+    <string name="fb_login_protocol_scheme">1f005323b98fee7e81568bf0d4187215</string>
+    <string name="facebook_client_token">1f538e45112a1fe51fec281d51762e20</string>
+</resources>
