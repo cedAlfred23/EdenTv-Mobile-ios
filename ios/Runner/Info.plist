@@ -63,11 +63,6 @@
 	<string>Eden TV a besoin d'acceder à votre microphone.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>EdenTv requires photo library services. The photo taken will be added to your profile and will allow to identify you when you fill in a comment during a broadcast.</string>
-	<key>UIBackgroundModes</key>
-	<array>
-		<string>audio</string>
-		<string>processing</string>
-	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
